@@ -1,0 +1,11 @@
+-------REFACTOR------
+
+Extract/Introduce
+- for separating methods in class
+
+Pull Members Up
+- for moving the whole method to another class
+
+Pull Members Down
+- for duplicating methods to all classes
+
